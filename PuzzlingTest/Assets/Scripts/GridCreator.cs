@@ -2,7 +2,7 @@
 /// This code will be similar if we have more than 2 sprites
 /// As we have only 2 sprites as option the extra check on
 /// Line 98 has to be done.
-/// If we have more than 3 elements we can remove the extra xheck on line 98
+/// If we havee more than 3 elements we can remove the extra xheck on line 98
 /// </summary>
 using System.Collections.Generic;
 using UnityEngine;
